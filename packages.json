@@ -5,58 +5,13 @@
     "subdir": "packages/pharmax"
   },
   {
-    "package": "pharmax.pk",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.pk"
-  },
-  {
-    "package": "pharmax.nca",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.nca"
-  },
-  {
     "package": "pharmax.viz",
     "url": "https://github.com/pharmax-org/pharmax",
     "subdir": "packages/pharmax.viz"
   },
   {
-    "package": "pharmax.sim",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.sim"
-  },
-  {
-    "package": "pharmax.data",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.data"
-  },
-  {
     "package": "pharmax.ml",
     "url": "https://github.com/pharmax-org/pharmax",
     "subdir": "packages/pharmax.ml"
-  },
-  {
-    "package": "pharmax.app",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.app"
-  },
-  {
-    "package": "pharmax.report",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.report"
-  },
-  {
-    "package": "pharmax.valid",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.valid"
-  },
-  {
-    "package": "pharmax.api",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.api"
-  },
-  {
-    "package": "pharmax.ai",
-    "url": "https://github.com/pharmax-org/pharmax",
-    "subdir": "packages/pharmax.ai"
   }
 ]
